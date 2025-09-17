@@ -40,5 +40,3 @@ This repo contains the Power BI Desktop file (`Maven Toys.pbix`) and supporting 
 - Remove or anonymize any sensitive data before sharing publicly.
 
 ---
-
-## 📁 Suggested repo structure
