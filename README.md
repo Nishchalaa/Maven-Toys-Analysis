@@ -27,7 +27,7 @@ This repo contains the Power BI Desktop file (`Maven Toys.pbix`) and supporting 
 ---
 
 ## 🚀 How to open the report
-1. Download `Maven Toys.pbix` from this repo (maven toys.pbix).  
+1. Download `Maven Toys.pbix` from this repo (https://github.com/Nishchalaa/Maven-Toys-Analysis.git).  
 2. Install & open **Power BI Desktop**.  
 3. File → Open → pick `Maven Toys.pbix`.  
 4. If prompted to update data source credentials, provide them (or skip refresh to explore visuals offline).
